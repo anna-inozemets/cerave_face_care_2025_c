@@ -161,6 +161,7 @@ p.age {
   top: 1em;
   right: 1em;
   height: 9.5em;
+  width: 26.5em;
   z-index: 1;
 }
 .slide__up .slide__logo::before {
